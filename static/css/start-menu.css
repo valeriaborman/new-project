@@ -1,0 +1,40 @@
+body {
+    background-color: #191970;
+}
+
+h1 {
+        font-family: 'Arial', sans-serif;
+        font-size: 48px;
+        color: #ff0000;
+        text-shadow: 2px 2px 4px #000000;
+        background-color: #0000FF;
+        padding: 10px;
+        border-radius: 10px;
+        text-align: center;
+        background-image: url("https://apollo-8.ru/wp-content/uploads/2017/10/blog-top.jpg");
+}
+
+p {
+    font-size: 25px;
+    color: #0000FF;
+    text-shadow: 2px 2px 4px #000000;
+}
+
+button {
+    background: linear-gradient(135deg, #4e54c8, #8f94fb); /* Градиент */
+    border: none;
+    border-radius: 12px; /* Закругленные углы */
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Тень */
+    color: white;
+    cursor: pointer;
+    font-size: 16px;
+    font-weight: bold;
+    padding: 15px 30px; /* Размеры кнопки */
+    text-align: center;
+    text-transform: uppercase;
+    transition: all 0.3s ease; /* Плавные переходы */
+    left: 200px; /* Координата X */
+    top: 210px; /* Координата Y */
+}
+
+
